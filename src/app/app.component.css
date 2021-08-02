@@ -1,4 +1,7 @@
 .box {
     display: flex;
+    align-content: stretch;
     padding: 10px;
+    border-style: groove;
+
  }
