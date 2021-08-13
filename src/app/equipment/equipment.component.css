@@ -1,0 +1,19 @@
+ul {
+   
+    padding: 20px;
+  }
+  li {
+      
+    background: #cce5ff;
+    margin: 5px;
+  }
+
+  h3 {
+    font-family: "Trebuchet MS", sans-serif;
+    font-size: 1em;
+    letter-spacing: -2px;
+    border-top: 2px solid black;
+    border-bottom: 2px solid black;
+    text-transform: uppercase;
+    text-align: center;
+   }
